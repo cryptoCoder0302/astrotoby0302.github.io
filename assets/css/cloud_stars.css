@@ -28,8 +28,6 @@
 }
 
 .clouds{
-  opacity: 0.8;
-  background-color: slategray!important;
    background:transparent url(	http://www.script-tutorials.com/demos/360/images/clouds.png) repeat top center;
     z-index:3;
 
